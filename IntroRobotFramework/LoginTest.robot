@@ -15,6 +15,7 @@ loginTestRobot
     Set Browser Implicit Wait    5
     Click Element    link=Logout
     Log    Ceci est un test execute par %{username} dans %{os}   
+    Log    Ceci est juste un simple test    
     Log    Fin de test    
     
 *** Variables ***
